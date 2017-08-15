@@ -4,6 +4,11 @@ h1 {
 
 body {
   font: 14px Times;
-  background: url (http://i.stack.imgur.com/jGlzr.png);
+  	background: url('http://i.stack.imgur.com/jGlzr.png');
+	background-repeat: no-repeat;
+	background-position: top;
+    background-size: contain;
+    height: 500px;  
+  
 }
 
