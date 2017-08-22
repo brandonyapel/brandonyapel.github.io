@@ -1,6 +1,7 @@
 #Resume-Name {
   font: 32px Times;
   font-weight: bold;
+  border-bottom: 1px solid black;
 }
 
 body {
