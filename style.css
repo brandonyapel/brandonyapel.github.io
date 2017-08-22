@@ -10,7 +10,7 @@ body {
   	background: url('http://i.stack.imgur.com/jGlzr.png');
 	background-repeat: no-repeat;
 	background-position: center;
-   	background-size:cover;
+   	background-size:contain;
 	background-attachment: fixed;
 	height: 500px;  
 }
