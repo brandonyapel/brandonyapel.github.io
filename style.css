@@ -7,11 +7,18 @@ body {
   font: 14px Times;  
   	background: url('http://i.stack.imgur.com/jGlzr.png');
 	background-repeat: no-repeat;
-	background-position: top;
-    background-size:stretch;
+	background-position: center;
+   	background-size:cover;
+	background-attachment: fixed;
+	opacity:0.70;
     height: 500px;  
 }
 
 #Portait {
   float: right;
 }
+
+#Resume-Name{
+	padding:50ox 80px;
+}
+
