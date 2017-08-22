@@ -9,9 +9,9 @@ body {
 	margin-right: 20%;
   	font: 14px Times;  
   	background: url('http://i.stack.imgur.com/jGlzr.png');
-	background-repeat: repeat;
+	background-repeat: no-repeat;
 	background-position: center;
-   	background-size:cover;
+   	background-size: cover;
 	background-attachment: fixed;
 	height: 500px;  
 }
